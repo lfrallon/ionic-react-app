@@ -1,0 +1,1 @@
+[Academind - Ionic + React - Tutorial for Beginners 2020](https://www.youtube.com/watch?v=_03VKmdrxV8&list=PLZXqKAYY2fwPzN68UvqGyFRVWvlQPKICy&index=1&t=7271s)
